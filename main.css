@@ -1,3 +1,8 @@
+.jumbotron {
+    background-image: image("img/AdobeStock_282230651_Preview.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 /*navigation whole container */
 #nav{
 
