@@ -5,8 +5,8 @@
     background-size: cover;
 }
 /*navigation whole container */
-#nav{
-
+#nav > a{
+    font-size: 24pt;
 }
 
 /* navigation headers */
@@ -15,8 +15,8 @@
 }
 
 /* navigation paragraphs*/
-#nav > p {
-
+#menu > a {
+    font-size: 18pt;
 }
 
 /*call to action container */
